@@ -3,10 +3,282 @@
     "América": {
       "Argentina": {
         "ligaPrimera": {
+          "ClubAtleticoAldosivi": {
+            "escudo": null,
+            "nombre": "Aldosivi",
+            "lugar": "Florencio Varela - Bs.As",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "ClubAtleticoArgentinosJuniors": {
+            "escudo": null,
+            "nombre": "Argentinos Juniors",
+            "lugar": "Pernal - CABA",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "ClubAtleticoTucuman": {
+            "escudo": null,
+            "nombre": "Atlético Tucumán",
+            "lugar": "San Miguel de Tucumán",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "ClubAtleticoBanfield": {
+            "escudo": null,
+            "nombre": "Banfield",
+            "lugar": "Banfield - Bs.As",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "Barracas Central": {
+            "escudo": null,
+            "nombre": "Barracas Central",
+            "lugar": "Barracas - CABA",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "ClubAtleticoBelgrano": {
+            "escudo": null,
+            "nombre": "Belgrano",
+            "lugar": "Córdoba - Córdoba",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
           "ClubAtléticoBocaJrs": {
             "nombre": "Club Atlético Boca Juniors",
+            "lugar": "La Boca - CABA",
             "fundación": "1905-04-03",
             "historia": "Uno de los clubes más grandes y populares de Argentina, conocido por su rivalidad con River Plate.",
+            "antiguosEntrenadores": [],
             "títulos": {
               "liga": 35,
               "copa": 15,
@@ -14,29 +286,119 @@
             },
             "plantel": [
               {
-                "nombre": "Sebastián Villa",
-                "nacionalidad": "Colombia",
-                "valor": 5000000,
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
                 "contrato": {
-                  "inicio": "2021-01-01",
-                  "fin": "2024-12-31",
-                  "sueldo": 350000,
-                  "tipo de contrato": "Préstamo con opción de compra"
-                },
-                "posición": "Extremo"
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
               }
             ],
             "cuerpoTecnico": [
               {
-                "nombre": "Carlos Tévez",
-                "nacionalidad": "Argentina",
+                "nombre": null,
+                "nacionalidad": null,
                 "contrato": {
-                  "inicio": "2023-01-01",
-                  "fin": "2025-12-31",
-                  "sueldo": 500000,
-                  "tipo de contrato": "Compra"
-                },
-                "posición": "Director Técnico"
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "CentralCordoba": {
+            "escudo": null,
+            "nombre": "Central Córdoba",
+            "lugar": "Santiago del Estero",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "DefensaYJusticia": {
+            "escudo": null,
+            "nombre": "Defensa y Justicia",
+            "lugar": "Santa Rosa - Bs.As",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
               }
             ],
             "interesan": null,
@@ -47,8 +409,10 @@
           },
           "ClubAtléticoRiverPlate": {
             "nombre": "Club Atlético River Plate",
+            "lugar": "Nuñez - CABA",
             "fundación": "1901-05-25",
             "historia": "Otro gigante del fútbol argentino, eterno rival de Boca Juniors.",
+            "antiguosEntrenadores": [],
             "títulos": {
               "liga": 38,
               "copa": 15,
@@ -56,29 +420,29 @@
             },
             "plantel": [
               {
-                "nombre": "Javier Pinola",
-                "nacionalidad": "Argentina",
-                "valor": 2000000,
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
                 "contrato": {
-                  "inicio": "2022-06-01",
-                  "fin": "2025-06-01",
-                  "sueldo": 350000,
-                  "tipo de contrato": "Compra"
-                },
-                "posición": "Defensor"
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
               }
             ],
             "cuerpoTecnico": [
               {
-                "nombre": "Marcelo Gallardo",
-                "nacionalidad": "Argentina",
+                "nombre": null,
+                "nacionalidad": null,
                 "contrato": {
-                  "inicio": "2020-01-01",
-                  "fin": "2024-12-31",
-                  "sueldo": 1000000,
-                  "tipo de contrato": "Compra"
-                },
-                "posición": "Director Técnico"
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
               }
             ],
             "interesan": null,
