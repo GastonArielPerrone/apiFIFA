@@ -1,0 +1,188 @@
+[
+{
+    "América": {
+      "Argentina": {
+        "ligaPrimera": {
+          "ClubAtléticoBocaJrs": {
+            "nombre": "Club Atlético Boca Juniors",
+            "fundación": "1905-04-03",
+            "historia": "Uno de los clubes más grandes y populares de Argentina, conocido por su rivalidad con River Plate.",
+            "títulos": {
+              "liga": 35,
+              "copa": 15,
+              "internacionales": 6
+            },
+            "plantel": [
+              {
+                "nombre": "Sebastián Villa",
+                "nacionalidad": "Colombia",
+                "valor": 5000000,
+                "contrato": {
+                  "inicio": "2021-01-01",
+                  "fin": "2024-12-31",
+                  "sueldo": 350000,
+                  "tipo de contrato": "Préstamo con opción de compra"
+                },
+                "posición": "Extremo"
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": "Carlos Tévez",
+                "nacionalidad": "Argentina",
+                "contrato": {
+                  "inicio": "2023-01-01",
+                  "fin": "2025-12-31",
+                  "sueldo": 500000,
+                  "tipo de contrato": "Compra"
+                },
+                "posición": "Director Técnico"
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "ClubAtléticoRiverPlate": {
+            "nombre": "Club Atlético River Plate",
+            "fundación": "1901-05-25",
+            "historia": "Otro gigante del fútbol argentino, eterno rival de Boca Juniors.",
+            "títulos": {
+              "liga": 38,
+              "copa": 15,
+              "internacionales": 4
+            },
+            "plantel": [
+              {
+                "nombre": "Javier Pinola",
+                "nacionalidad": "Argentina",
+                "valor": 2000000,
+                "contrato": {
+                  "inicio": "2022-06-01",
+                  "fin": "2025-06-01",
+                  "sueldo": 350000,
+                  "tipo de contrato": "Compra"
+                },
+                "posición": "Defensor"
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": "Marcelo Gallardo",
+                "nacionalidad": "Argentina",
+                "contrato": {
+                  "inicio": "2020-01-01",
+                  "fin": "2024-12-31",
+                  "sueldo": 1000000,
+                  "tipo de contrato": "Compra"
+                },
+                "posición": "Director Técnico"
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          }
+        }
+      },
+      "Brasil": {
+        "ligaBrasileira": {
+          "Flamengo": {
+            "nombre": "Flamengo",
+            "fundación": "1895-11-17",
+            "historia": "Es uno de los clubes más populares de Brasil, con gran cantidad de seguidores.",
+            "títulos": {
+              "liga": 9,
+              "copa": 13,
+              "internacionales": 5
+            },
+            "plantel": [
+              {
+                "nombre": "Gabigol",
+                "nacionalidad": "Brasil",
+                "valor": 15000000,
+                "contrato": {
+                  "inicio": "2022-01-01",
+                  "fin": "2025-12-31",
+                  "sueldo": 750000,
+                  "tipo de contrato": "Compra"
+                },
+                "posición": "Delantero"
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": "Jorge Jesús",
+                "nacionalidad": "Portugal",
+                "contrato": {
+                  "inicio": "2021-01-01",
+                  "fin": "2024-12-31",
+                  "sueldo": 800000,
+                  "tipo de contrato": "Compra"
+                },
+                "posición": "Director Técnico"
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          }
+        }
+      }
+    },
+    "Europa": {
+      "España": {
+        "ligaEspañola": {
+          "RealMadrid": {
+            "nombre": "Real Madrid",
+            "fundación": "1902-03-06",
+            "historia": "Uno de los clubes más laureados de Europa y el mundo, con múltiples títulos de liga y Champions League.",
+            "títulos": {
+              "liga": 35,
+              "copa": 19,
+              "internacionales": 13
+            },
+            "plantel": [
+              {
+                "nombre": "Karim Benzema",
+                "nacionalidad": "Francia",
+                "valor": 30000000,
+                "contrato": {
+                  "inicio": "2020-01-01",
+                  "fin": "2024-06-30",
+                  "sueldo": 1000000,
+                  "tipo de contrato": "Compra"
+                },
+                "posición": "Delantero"
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": "Carlo Ancelotti",
+                "nacionalidad": "Italia",
+                "contrato": {
+                  "inicio": "2021-01-01",
+                  "fin": "2024-12-31",
+                  "sueldo": 900000,
+                  "tipo de contrato": "Compra"
+                },
+                "posición": "Director Técnico"
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          }
+        }
+      }
+    }
+  }
+]  
