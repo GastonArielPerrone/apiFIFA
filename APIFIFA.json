@@ -993,8 +993,278 @@
           },
           "SanLorenzo": {
             "escudo": null,
-            "nombre": "Club Atñético San Lorenzo de Almagro",
+            "nombre": "Club Atlético San Lorenzo de Almagro",
             "lugar": "Boedo - CABA",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "SanMaritinDeSanJuan": {
+            "escudo": null,
+            "nombre": "Club Atlético San Martín",
+            "lugar": "San Juan - San Juan",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "Sarmiento": {
+            "escudo": null,
+            "nombre": "Club Atlético Sarmiento",
+            "lugar": "Mendoza - Mendoza",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "Talleres": {
+            "escudo": null,
+            "nombre": "Club Atlético Talleres",
+            "lugar": "Córdoba - Córdoba",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "Tigre": {
+            "escudo": null,
+            "nombre": "Club Atlético Tigre",
+            "lugar": "San Fernando - Bs.As",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "Union": {
+            "escudo": null,
+            "nombre": "Club Atlético Unión",
+            "lugar": "Santa Fé - Santa Fé",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "VelezSarsfield": {
+            "escudo": null,
+            "nombre": "Club Atlético Vélez Sarsfield",
+            "lugar": "Vélez - CABA",
             "fundación": null,
             "historia": null,
             "antiguosEntrenadores": [],
