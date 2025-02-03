@@ -1460,7 +1460,7 @@
             "venta": null
           },
           "VelezSarsfield": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/VEL-Escudo.png",
             "nombre": "Club Atlético Vélez Sarsfield",
             "estadio": null,
             "imagenEstadio": null,
