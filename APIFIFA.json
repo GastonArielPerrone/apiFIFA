@@ -3,9 +3,9 @@
     "América": {
       "Argentina": {
         "ligaPrimera": {
-          "ClubAtleticoAldosivi": {
+          "Aldosivi": {
             "escudo": null,
-            "nombre": "Aldosivi",
+            "nombre": "Club Atlético Aldosivi",
             "lugar": "Florencio Varela - Bs.As",
             "fundación": null,
             "historia": null,
@@ -48,9 +48,9 @@
             "compra": null,
             "venta": null
           },
-          "ClubAtleticoArgentinosJuniors": {
+          "ArgentinosJuniors": {
             "escudo": null,
-            "nombre": "Argentinos Juniors",
+            "nombre": "Asociación Atlética Argentinos Juniors",
             "lugar": "Pernal - CABA",
             "fundación": null,
             "historia": null,
@@ -93,9 +93,9 @@
             "compra": null,
             "venta": null
           },
-          "ClubAtleticoTucuman": {
+          "AtleticoTucuman": {
             "escudo": null,
-            "nombre": "Atlético Tucumán",
+            "nombre": "Club Atlético Tucumán",
             "lugar": "San Miguel de Tucumán",
             "fundación": null,
             "historia": null,
@@ -138,9 +138,9 @@
             "compra": null,
             "venta": null
           },
-          "ClubAtleticoBanfield": {
+          "Banfield": {
             "escudo": null,
-            "nombre": "Banfield",
+            "nombre": "Club Atlético Banfield",
             "lugar": "Banfield - Bs.As",
             "fundación": null,
             "historia": null,
@@ -185,7 +185,7 @@
           },
           "Barracas Central": {
             "escudo": null,
-            "nombre": "Barracas Central",
+            "nombre": "Club Atlético Barracas Central",
             "lugar": "Barracas - CABA",
             "fundación": null,
             "historia": null,
@@ -228,9 +228,9 @@
             "compra": null,
             "venta": null
           },
-          "ClubAtleticoBelgrano": {
+          "Belgrano": {
             "escudo": null,
-            "nombre": "Belgrano",
+            "nombre": "Club Atlético Belgrano",
             "lugar": "Córdoba - Córdoba",
             "fundación": null,
             "historia": null,
@@ -273,11 +273,11 @@
             "compra": null,
             "venta": null
           },
-          "ClubAtléticoBocaJrs": {
+          "BocaJuniors": {
             "nombre": "Club Atlético Boca Juniors",
             "lugar": "La Boca - CABA",
             "fundación": "1905-04-03",
-            "historia": "Uno de los clubes más grandes y populares de Argentina, conocido por su rivalidad con River Plate.",
+            "historia": "El Club Atlético Boca Juniors fue fundado el 3 de abril de 1905 en el barrio de sLa Boca, Buenos Aires, por un grupo de jóvenes italianos. Desde sus primeros años, el club se destacó en el fútbol argentino, ganando numerosos títulos nacionales e internacionales. En su estadio, la Bombonera, se vive una de las atmósferas más intensas y apasionadas del fútbol mundial. Boca Juniors ha tenido grandes jugadores a lo largo de su historia, como Diego Maradona, Juan Román Riquelme y Carlos Tevez. A lo largo de los años, ha forjado una intensa rivalidad con River Plate, siendo el Superclásico uno de los partidos más esperados del fútbol mundial.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": 35,
@@ -319,7 +319,7 @@
           },
           "CentralCordoba": {
             "escudo": null,
-            "nombre": "Central Córdoba",
+            "nombre": "Club Atlético Central Córdoba",
             "lugar": "Santiago del Estero",
             "fundación": null,
             "historia": null,
@@ -364,7 +364,7 @@
           },
           "DefensaYJusticia": {
             "escudo": null,
-            "nombre": "Defensa y Justicia",
+            "nombre": "Club Social y Deportivo Defensa y Justicia",
             "lugar": "Santa Rosa - Bs.As",
             "fundación": null,
             "historia": null,
@@ -407,16 +407,601 @@
             "compra": null,
             "venta": null
           },
-          "ClubAtléticoRiverPlate": {
+          "Estudiantes": {
+            "escudo": null,
+            "nombre": "Club Atlético Estudiantes",
+            "lugar": "La Plata - Bs.As",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "GimnasiaLP": {
+            "escudo": null,
+            "nombre": "Club Gimnasia y Esgrima de La Plata",
+            "lugar": "La Plata - Bs.As",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "GodoyCruz": {
+            "escudo": null,
+            "nombre": "Club Deportivo Godoy Cruz Antonio Tomba",
+            "lugar": "Godoy Cruz - Mendoza",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "Huracán": {
+            "escudo": null,
+            "nombre": "Club Atlético Huracán",
+            "lugar": "Parque Patricios - CABA",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "Independiente": {
+            "escudo": null,
+            "nombre": "Club Atlético Independiente",
+            "lugar": "Avellaneda - Bs.As",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "IndependienteRivadavia": {
+            "escudo": null,
+            "nombre": "Independiente Rivadavia",
+            "lugar": "Mendoza - Mendoza",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "Instituto": {
+            "escudo": null,
+            "nombre": "Instituto Atlético Central Cordoba",
+            "lugar": "Mendoza - Mendoza",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "Lanus": {
+            "escudo": null,
+            "nombre": "Club Atlético Lanús",
+            "lugar": "Lanús - Bs.As.",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "Newlls": {
+            "escudo": null,
+            "nombre": "Club Atlético Newll's Old Boys",
+            "lugar": "Rosario - Santa Fé",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "Platense": {
+            "escudo": null,
+            "nombre": "Club Atlético Platense",
+            "lugar": "Vicente López - Bs.As",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "RacingClub": {
+            "escudo": null,
+            "nombre": "Racing Club",
+            "lugar": "Avellaneda - Bs.As",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "RiverPlate": {
             "nombre": "Club Atlético River Plate",
             "lugar": "Nuñez - CABA",
             "fundación": "1901-05-25",
-            "historia": "Otro gigante del fútbol argentino, eterno rival de Boca Juniors.",
+            "historia": "El Club Atlético River Plate fue fundado el 25 de mayo de 1901 en el barrio de La Boca, Buenos Aires, aunque más tarde se mudó a Núñez, donde se encuentra su icónico estadio, el Monumental. A lo largo de su historia, River se ha consagrado como uno de los clubes más exitosos de Argentina y el mundo, obteniendo múltiples campeonatos locales e internacionales. Ha sido cuna de grandes figuras como Ángel Labruna, Daniel Passarella, Ariel Ortega y Lionel Messi, entre otros. River Plate tiene una histórica rivalidad con Boca Juniors, y el Superclásico argentino es uno de los encuentros más apasionados y seguidos a nivel global. El club ha sido protagonista en competencias de América y del mundo, y es reconocido por su vasta hinchada y su identidad futbolística.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": 38,
               "copa": 15,
               "internacionales": 4
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "RosarioCentral": {
+            "escudo": null,
+            "nombre": "Club Atlético Rosario Central",
+            "lugar": "Rosario - Santa Fé",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
+            },
+            "plantel": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "cuerpoTecnico": [
+              {
+                "nombre": null,
+                "nacionalidad": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              }
+            ],
+            "interesan": null,
+            "altas": null,
+            "bajas": null,
+            "compra": null,
+            "venta": null
+          },
+          "SanLorenzo": {
+            "escudo": null,
+            "nombre": "Club Atñético San Lorenzo de Almagro",
+            "lugar": "Boedo - CABA",
+            "fundación": null,
+            "historia": null,
+            "antiguosEntrenadores": [],
+            "títulos": {
+              "liga": null,
+              "copa": null,
+              "internacionales": null
             },
             "plantel": [
               {
