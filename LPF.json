@@ -4,7 +4,7 @@
       "Argentina": {
         "LigaProfesionaldeFutbol": {
           "Aldosivi": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/ALD-Escudo.png",
             "nombre": "Club Atlético Aldosivi",
             "estadio": null,
             "imagenEstadio": null,
@@ -56,7 +56,7 @@
             "venta": null
           },
           "ArgentinosJuniors": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/AAAJ-Clubes.png",
             "nombre": "Asociación Atlética Argentinos Juniors",
             "estadio": null,
             "imagenEstadio": null,
@@ -108,7 +108,7 @@
             "venta": null
           },
           "AtleticoTucuman": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/ATU-escudo.png",
             "nombre": "Club Atlético Tucumán",
             "estadio": null,
             "imagenEstadio": null,
@@ -160,7 +160,7 @@
             "venta": null
           },
           "Banfield": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/BAN-escudo.png",
             "nombre": "Club Atlético Banfield",
             "estadio": null,
             "imagenEstadio": null,
@@ -212,7 +212,7 @@
             "venta": null
           },
           "Barracas Central": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/BAR-escudo.png",
             "nombre": "Club Atlético Barracas Central",
             "estadio": null,
             "imagenEstadio": null,
@@ -264,7 +264,7 @@
             "venta": null
           },
           "Belgrano": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/BEL-Escudo.png",
             "nombre": "Club Atlético Belgrano",
             "estadio": null,
             "imagenEstadio": null,
@@ -316,6 +316,7 @@
             "venta": null
           },
           "BocaJuniors": {
+            "escudo": "clubes/Argentina/LPF/BOC-Escudo.png",
             "nombre": "Club Atlético Boca Juniors",
             "estadio": null,
             "imagenEstadio": null,
@@ -367,7 +368,7 @@
             "venta": null
           },
           "CentralCordoba": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/CCORD-Escudo.png",
             "nombre": "Club Atlético Central Córdoba",
             "estadio": null,
             "imagenEstadio": null,
@@ -419,7 +420,7 @@
             "venta": null
           },
           "DefensaYJusticia": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/DYJ-escudo.png",
             "nombre": "Club Social y Deportivo Defensa y Justicia",
             "estadio": null,
             "imagenEstadio": null,
@@ -471,7 +472,7 @@
             "venta": null
           },
           "Estudiantes": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/ELP-Escudo.png",
             "nombre": "Club Atlético Estudiantes",
             "estadio": null,
             "imagenEstadio": null,
@@ -523,7 +524,7 @@
             "venta": null
           },
           "GimnasiaLP": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/GYE-Escudo.png",
             "nombre": "Club Gimnasia y Esgrima de La Plata",
             "estadio": null,
             "imagenEstadio": null,
@@ -575,7 +576,7 @@
             "venta": null
           },
           "GodoyCruz": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/GOD-escudo.png",
             "nombre": "Club Deportivo Godoy Cruz Antonio Tomba",
             "estadio": null,
             "imagenEstadio": null,
@@ -627,7 +628,7 @@
             "venta": null
           },
           "Huracán": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/HUR-Escudo.png",
             "nombre": "Club Atlético Huracán",
             "estadio": null,
             "imagenEstadio": null,
@@ -679,7 +680,7 @@
             "venta": null
           },
           "Independiente": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/IND-Escudo.png",
             "nombre": "Club Atlético Independiente",
             "estadio": null,
             "imagenEstadio": null,
@@ -731,7 +732,7 @@
             "venta": null
           },
           "IndependienteRivadavia": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/INDRIV-Clubes.png",
             "nombre": "Independiente Rivadavia",
             "estadio": null,
             "imagenEstadio": null,
@@ -783,7 +784,7 @@
             "venta": null
           },
           "Instituto": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/INS-Clubes.png",
             "nombre": "Instituto Atlético Central Cordoba",
             "estadio": null,
             "imagenEstadio": null,
@@ -835,7 +836,7 @@
             "venta": null
           },
           "Lanus": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/LAN-escudo.png",
             "nombre": "Club Atlético Lanús",
             "estadio": null,
             "imagenEstadio": null,
@@ -887,7 +888,7 @@
             "venta": null
           },
           "Newlls": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/NOB-escudo.png",
             "nombre": "Club Atlético Newll's Old Boys",
             "estadio": null,
             "imagenEstadio": null,
@@ -939,7 +940,7 @@
             "venta": null
           },
           "Platense": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/PLA-Clubes.png",
             "nombre": "Club Atlético Platense",
             "estadio": null,
             "imagenEstadio": null,
@@ -991,7 +992,7 @@
             "venta": null
           },
           "RacingClub": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/RAC-Escudo.png",
             "nombre": "Racing Club",
             "estadio": null,
             "imagenEstadio": null,
@@ -1043,6 +1044,7 @@
             "venta": null
           },
           "RiverPlate": {
+            "escudo": "clubes/Argentina/LPF/RIV-Escudo.png",
             "nombre": "Club Atlético River Plate",
             "estadio": null,
             "imagenEstadio": null,
@@ -1094,7 +1096,7 @@
             "venta": null
           },
           "RosarioCentral": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/RC-Escudo.png",
             "nombre": "Club Atlético Rosario Central",
             "estadio": null,
             "imagenEstadio": null,
@@ -1146,7 +1148,7 @@
             "venta": null
           },
           "SanLorenzo": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/SLO-Escudo.png",
             "nombre": "Club Atlético San Lorenzo de Almagro",
             "estadio": null,
             "imagenEstadio": null,
@@ -1198,7 +1200,7 @@
             "venta": null
           },
           "SanMaritinDeSanJuan": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/SMSJ-Escudo.png",
             "nombre": "Club Atlético San Martín",
             "estadio": null,
             "imagenEstadio": null,
@@ -1250,7 +1252,7 @@
             "venta": null
           },
           "Sarmiento": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/SYJ-Escudo.png",
             "nombre": "Club Atlético Sarmiento",
             "estadio": null,
             "imagenEstadio": null,
@@ -1302,7 +1304,7 @@
             "venta": null
           },
           "Talleres": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/TALLCORD-Escudo.png",
             "nombre": "Club Atlético Talleres",
             "estadio": null,
             "imagenEstadio": null,
@@ -1354,7 +1356,7 @@
             "venta": null
           },
           "Tigre": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/TIG-Escudo.png",
             "nombre": "Club Atlético Tigre",
             "estadio": null,
             "imagenEstadio": null,
@@ -1406,7 +1408,7 @@
             "venta": null
           },
           "Union": {
-            "escudo": null,
+            "escudo": "clubes/Argentina/LPF/UNI-Escudo.png",
             "nombre": "Club Atlético Unión",
             "estadio": null,
             "imagenEstadio": null,
