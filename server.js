@@ -1,5 +1,6 @@
 const express = require('express');
 const fs = require('fs');
+const { Server } = require('http');
 const app = express();
 const port = 3000;
 
@@ -7,11 +8,11 @@ const port = 3000;
 const jsonData = JSON.parse(fs.readFileSync('APIFIFA.json', 'utf8'));
 
 // Ruta para obtener los datos
-app.get('/api/data', (req, res) => {
+app.get(route='/api/data', (req, res) => {
   res.json(jsonData);
 });
 
-// Iniciar el servidor
+// Iniciar el servidor.
 app.listen(port, () => {
-  console.log(`Servidor corriendo en http://localhost:${port}`);
+  console.log(`Servidor corriendo en http://localhost:${port}${route}`);
 });
