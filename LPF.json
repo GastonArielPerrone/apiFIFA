@@ -24,6 +24,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -38,6 +39,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -76,6 +78,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -90,6 +93,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -128,6 +132,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -142,6 +147,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -180,6 +186,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -194,6 +201,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -232,6 +240,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -246,6 +255,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -284,6 +294,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -298,6 +309,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -336,6 +348,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -350,6 +363,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -388,6 +402,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -402,6 +417,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -440,6 +456,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -454,6 +471,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -492,6 +510,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -506,6 +525,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -544,6 +564,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -558,6 +579,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -596,6 +618,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -610,6 +633,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -638,8 +662,8 @@
               "long": null
             },
             "lugar": "Parque Patricios - CABA",
-            "fundación": null,
-            "historia": null,
+            "fundación": "01-11-1908",
+            "historia": "El Club Atlético Huracán fue fundado el 1 de noviembre de 1908 por un grupo de jóvenes de la comunidad del barrio de Parque Patricios, en Buenos Aires. Su nombre fue inspirado por el 'huracán', en referencia a la fuerza y potencia que deseaban que su equipo tuviera en el fútbol. Es uno de los clubes más tradicionales del fútbol argentino, conocido por su apasionada hinchada. A lo largo de su historia, Huracán ha tenido varios éxitos, incluyendo títulos nacionales e internacionales, y ha sido rival histórico de equipos como San Lorenzo. Su estadio, el Tomás Adolfo Ducó, es un símbolo de la identidad del club.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -648,6 +672,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -662,6 +687,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -690,8 +716,8 @@
               "long": null
             },
             "lugar": "Avellaneda - Bs.As",
-            "fundación": null,
-            "historia": null,
+            "fundación": "01-01-1905",
+            "historia": "El Club Atlético Independiente fue fundado el 1 de enero de 1905 en Avellaneda, Buenos Aires, por un grupo de jóvenes encabezados por Salvador Villa. Es uno de los clubes más grandes y exitosos de Argentina y el mundo, especialmente reconocido por su histórica cantidad de títulos internacionales, destacándose la Copa Libertadores, que ganó en 7 ocasiones. Independiente tiene una gran rivalidad con Racing Club, su vecino de Avellaneda, conocido como el 'Clásico de Avellaneda'. A lo largo de su historia, el club ha sido un símbolo del fútbol argentino y un referente de su rica tradición deportiva. Su estadio, el 'Libertadores de América', es uno de los más emblemáticos del país.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -700,6 +726,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -714,6 +741,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -742,8 +770,8 @@
               "long": null
             },
             "lugar": "Mendoza - Mendoza",
-            "fundación": null,
-            "historia": null,
+            "fundación": "10-01-1913",
+            "historia": "El Club Atlético Independiente Rivadavia fue fundado el 10 de enero de 1913 en la ciudad de Mendoza, Argentina. Su nombre proviene de la combinación de la figura de Juan Martín de Pueyrredón (héroe de la independencia) y la ciudad de Rivadavia, de donde provienen muchos de sus primeros socios. A lo largo de su historia, Independiente Rivadavia ha sido uno de los clubes más representativos de la provincia de Mendoza. El club juega principalmente en las categorías del fútbol argentino, siendo un equipo competitivo en la Primera Nacional. Su estadio, el 'Bautista Gargantini', es uno de los más importantes de la región.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -752,6 +780,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -766,6 +795,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -794,8 +824,8 @@
               "long": null
             },
             "lugar": "Mendoza - Mendoza",
-            "fundación": null,
-            "historia": null,
+            "fundación": "18-08-1918",
+            "historia": "El Instituto Atlético Central Córdoba fue fundado el 18 de agosto de 1918 en la ciudad de Córdoba, Argentina, por un grupo de jóvenes con el objetivo de crear una institución deportiva. Su nombre hace referencia al ferrocarril Central Córdoba, que tenía una fuerte presencia en la ciudad en esa época. A lo largo de su historia, el club ha sido conocido por su pasión en el fútbol y por sus actuaciones destacadas en el ascenso argentino. Instituto ha tenido varios momentos de gloria, logrando varios campeonatos de la segunda división y manteniendo una gran rivalidad con otros equipos de la región. Su estadio, el 'Juan Domingo Perón, es uno de los más emblemáticos de Córdoba.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -804,6 +834,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -818,6 +849,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -846,8 +878,8 @@
               "long": null
             },
             "lugar": "Lanús - Bs.As.",
-            "fundación": null,
-            "historia": null,
+            "fundación": "03-01-1913",
+            "historia": "El Club Atlético Lanús fue fundado el 3 de enero de 1915 en el partido de Lanús, en el conurbano bonaerense, por un grupo de jóvenes futbolistas del barrio. A lo largo de su historia, el club se ha destacado en el fútbol argentino, alcanzando éxitos tanto a nivel nacional como internacional, siendo campeón de la Copa Sudamericana 2013, uno de sus logros más importantes. Lanús es conocido por su estilo de juego ofensivo y por su hinchada apasionada. Su estadio, el 'Néstor Díaz Pérez' (también conocido como 'La Fortaleza'), es un emblema del club. La institución ha tenido una destacada participación en el desarrollo del fútbol juvenil en el país.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -856,6 +888,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -870,6 +903,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -898,8 +932,8 @@
               "long": null
             },
             "lugar": "Rosario - Santa Fé",
-            "fundación": null,
-            "historia": null,
+            "fundación": "03-11-1903",
+            "historia": "El Club Atlético Newell's Old Boys fue fundado el 3 de noviembre de 1903 en la ciudad de Rosario, Santa Fe, por un grupo de jóvenes de origen británico. Su nombre proviene de Isaac Newell, un inglés que fue un referente en el club y en la educación deportiva de la ciudad. Newell's se ha consolidado como uno de los clubes más grandes y tradicionales de Argentina, con una rica historia de éxitos a nivel local e internacional. Es conocido por su fervorosa hinchada y por su rivalidad con Rosario Central, con quien disputa el clásico rosarino. El estadio 'Marcelo Bielsa', también conocido como 'El Coloso del Parque', es uno de los más emblemáticos del país.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -908,6 +942,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -922,6 +957,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -950,8 +986,8 @@
               "long": null
             },
             "lugar": "Vicente López - Bs.As",
-            "fundación": null,
-            "historia": null,
+            "fundación": "25-05-1905",
+            "historia": "El Club Atlético Platense fue fundado el 25 de mayo de 1905 en Vicente López, Buenos Aires, por un grupo de jóvenes apasionados por el deporte. Tras su fundación, el club jugó en diversas canchas, siendo su primera sede un terreno en La Paternal, en Buenos Aires. A mediados de la década de 1940, Platense se vinculó con el Polideportivo de Núñez, utilizando su predio para disputar partidos y seguir desarrollando actividades deportivas. Sin embargo, este vínculo fue breve, ya que el club se trasladó definitivamente a Vicente López, donde actualmente se encuentra su estadio, el Ciudad de Vicente López. A lo largo de su historia, Platense ha vivido altibajos, pero siempre ha sido un club querido por su hinchada, que lo acompaña con fervor en todas las divisiones en las que participa.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -960,6 +996,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -974,6 +1011,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1002,8 +1040,8 @@
               "long": null
             },
             "lugar": "Avellaneda - Bs.As",
-            "fundación": null,
-            "historia": null,
+            "fundación": "25-03-1903",
+            "historia": "Racing Club fue fundado el 25 de marzo de 1903 en Avellaneda, Buenos Aires, por un grupo de jóvenes con pasión por el fútbol. Inicialmente, el club fue conocido como 'Racing Club de Avellaneda' y sus primeros años estuvieron marcados por una gran competitividad, siendo uno de los clubes fundadores de la Primera División argentina. En las décadas de 1910 y 1920, Racing comenzó a consolidarse como uno de los clubes más grandes, logrando varios campeonatos nacionales. En 1967, Racing alcanzó la gloria internacional al ganar la Copa Libertadores y la Copa Intercontinental, consolidándose como un gigante del fútbol mundial. Sin embargo, en los años posteriores, el club atravesó períodos de crisis y descenso, pero siempre mantuvo una enorme base de hinchas que lo apoyaron incondicionalmente. Tras años difíciles en la década de 1980, Racing volvió a la Primera División y comenzó a reconstruir su historia. En 2001, el club vivió uno de sus momentos más dolorosos con el descenso, pero logró regresar rápidamente. En la década de 2010, Racing recuperó su estabilidad y volvió a ser protagonista, consagrándose campeón de la Superliga Argentina en 2014. A lo largo de su historia, Racing ha sido uno de los clubes más populares y exitosos de Argentina, con una hinchada apasionada y un rival eterno, Independiente, con quien disputa el histórico Clásico de Avellaneda. Su estadio, el Cilindro de Avellaneda, es un símbolo de su grandeza.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -1012,6 +1050,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1026,6 +1065,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1064,6 +1104,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1078,6 +1119,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1106,8 +1148,8 @@
               "long": null
             },
             "lugar": "Rosario - Santa Fé",
-            "fundación": null,
-            "historia": null,
+            "fundación": "24-12-1889",
+            "historia": "El Club Atlético Rosario Central fue fundado el 24 de diciembre de 1889 en Rosario, Santa Fe, por un grupo de jóvenes estudiantes de origen británico. Inicialmente, el club fue creado como un equipo de rugby, pero con el tiempo se inclinó por el fútbol, siendo uno de los pioneros en la disciplina en Argentina. Rosario Central es uno de los clubes más importantes y populares del país, con una vasta historia tanto a nivel nacional como internacional. A lo largo de los años, Central ha ganado numerosos títulos, incluidos campeonatos nacionales de liga, y ha sido una pieza clave del fútbol argentino. Su hinchada, conocida como la 'Canalla', es muy apasionada y siempre ha estado junto al equipo en los momentos de gloria y de dificultad. Uno de los aspectos más destacados de la historia del club es su histórica rivalidad con Newell's Old Boys, con quien disputa el clásico rosarino, considerado uno de los más intensos y tradicionales del fútbol argentino. El clásico es un evento deportivo que genera gran expectación y emoción, no solo en la ciudad de Rosario, sino en todo el país. Rosario Central ha tenido participaciones destacadas en competiciones internacionales, especialmente en la Copa Libertadores de América, y su estadio, el Gigante de Arroyito, es uno de los más emblemáticos del país. El club ha jugado un papel crucial en el desarrollo de jugadores de fútbol, siendo conocido por su rica cantera y su constante aporte al fútbol argentino. A lo largo de su historia, ha sido un club de gran prestigio, con una hinchada fiel y una historia llena de emociones y logros deportivos.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -1116,6 +1158,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1130,6 +1173,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1158,8 +1202,8 @@
               "long": null
             },
             "lugar": "Boedo - CABA",
-            "fundación": null,
-            "historia": null,
+            "fundación": "01-04-1908",
+            "historia": "Club Atlético San Lorenzo de Almagro fue fundado el 1 de abril de 1908 en el barrio de Boedo, Buenos Aires, por un grupo de jóvenes, en su mayoría liderados por el sacerdote Juan Pedro Díaz. San Lorenzo es uno de los cinco grandes del fútbol argentino y cuenta con una historia llena de éxitos tanto nacionales como internacionales. San Lorenzo ha ganado numerosos campeonatos de liga, destacándose como uno de los clubes más importantes del país. A nivel internacional, el club ha logrado títulos como la Copa Libertadores de América, obtenida en 2014, lo que consolidó su estatus como un gigante del fútbol sudamericano. Además, San Lorenzo ha sido varias veces campeón de la Copa Sudamericana y otras competiciones internacionales. Uno de los aspectos más destacados de la historia de San Lorenzo es su fervorosa hinchada, conocida como 'los cuervos', que ha sido un pilar fundamental en el crecimiento y la historia del club. La hinchada tiene una relación muy especial con el club, acompañando al equipo en cada momento, tanto en los logros como en las dificultades. San Lorenzo ha vivido momentos de gran tensión en su historia, especialmente por la disputa de su estadio original, el Gasómetro, con la ciudad de Buenos Aires, lo que llevó al club a mudarse temporalmente a Tigre. En 2013, con el regreso del club a Boedo y la construcción del Nuevo Gasómetro, San Lorenzo recuperó su identidad territorial y volvió a fortalecer su vínculo con los hinchas. Su estadio, el Estadio Pedro Bidegain (Nuevo Gasómetro), es uno de los más emblemáticos del país, y su lema, “San Lorenzo es más que un club”, refleja la importancia de la institución en la vida social y cultural de Argentina. A lo largo de su historia, San Lorenzo ha sido no solo un club con gran relevancia deportiva, sino también una parte fundamental de la historia del fútbol argentino.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -1168,6 +1212,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1182,6 +1227,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1210,8 +1256,8 @@
               "long": null
             },
             "lugar": "San Juan - San Juan",
-            "fundación": null,
-            "historia": null,
+            "fundación": "27-09-1907",
+            "historia": "El Club Atlético San Martín de San Juan es una institución deportiva argentina con sede en la ciudad de San Juan, fundada el 27 de septiembre de 1907. Es uno de los clubes más importantes de la provincia y se destaca principalmente por su equipo de fútbol, que ha competido en diversas categorías del fútbol argentino, incluyendo la Primera División. San Martín comenzó como un club amateur, pero con el tiempo se consolidó en el fútbol sanjuanino y logró trascender a nivel nacional. Durante gran parte de su historia, compitió en torneos regionales y en los antiguos torneos del Interior, hasta que comenzó a destacarse en el fútbol profesional. El club logró el ascenso a la Primera B Nacional en 1991, marcando un hito en su historia. Sin embargo, su gran logro llegó en 2007, cuando consiguió su primer ascenso a la Primera División del fútbol argentino tras vencer a Huracán en la promoción. En su primera temporada en la máxima categoría (Apertura 2007 y Clausura 2008), San Martín no pudo mantener la categoría y descendió nuevamente. Sin embargo, en 2011 logró un nuevo ascenso a Primera, donde permaneció hasta 2013. Desde entonces, el equipo ha alternado entre la Primera Nacional (segunda división) y la Primera División, manteniéndose como un club importante del interior del país. El clásico rival de San Martín es Sportivo Desamparados, con quien protagoniza el Clásico Sanjuanino, uno de los enfrentamientos más importantes del fútbol cuyano. Si bien el fútbol es su principal actividad, el club también ha desarrollado otras disciplinas como el hockey sobre patines y el futsal, con buenos resultados a nivel provincial y nacional. San Martín de San Juan sigue siendo un referente del fútbol sanjuanino y del interior del país, con una rica historia y una hinchada apasionada que lo acompaña en todas sus campañas.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -1220,6 +1266,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1234,6 +1281,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1262,8 +1310,8 @@
               "long": null
             },
             "lugar": "Mendoza - Mendoza",
-            "fundación": null,
-            "historia": null,
+            "fundación": "01-04-1911",
+            "historia": "El Club Atlético Sarmiento es una institución deportiva argentina con sede en la ciudad de Junín, provincia de Buenos Aires. Fundado el 1 de abril de 1911, es uno de los clubes más tradicionales del interior del país y se destaca principalmente por su equipo de fútbol, que ha competido en varias oportunidades en la Primera División del fútbol argentino. Sarmiento de Junín tuvo una larga trayectoria en los torneos regionales y en las categorías de ascenso del fútbol argentino. Su primer gran logro fue en 1980, cuando consiguió el ascenso a la Primera División tras ganar el Torneo Nacional de Primera B. En su primera experiencia en la máxima categoría, participó en los Torneos Nacionales de 1981 y 1982, enfrentándose a los equipos más grandes del país. Después de su paso por Primera, el club transitó varias décadas en las categorías de ascenso, principalmente en la Primera B Metropolitana y el Nacional B, hasta que logró consolidarse nuevamente como un equipo competitivo. En los últimos años, Sarmiento ha tenido varios ascensos a la Primera División, consolidándose como un club de referencia en el fútbol del interior. Ascenso en 2014: Sarmiento logró subir a la Primera División tras una excelente campaña en la Primera B Nacional, pero descendió en 2017. Ascenso en 2021: Luego de un paso por la Primera Nacional, el equipo volvió a la Liga Profesional de Fútbol, donde ha intentado mantenerse con el objetivo de consolidarse en la máxima categoría. Si bien el fútbol es su principal actividad, el club también ha desarrollado deportes como el básquet, el hockey y el vóley, además de contar con una importante estructura de divisiones inferiores. Sarmiento de Junín sigue siendo un equipo protagonista en el fútbol argentino, con el sueño de mantenerse en la Primera División y seguir creciendo como institución.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -1272,6 +1320,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1286,6 +1335,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1314,8 +1364,8 @@
               "long": null
             },
             "lugar": "Córdoba - Córdoba",
-            "fundación": null,
-            "historia": null,
+            "fundación": "12-10-1913",
+            "historia": "El Club Atlético Talleres, conocido como Talleres de Córdoba, es una de las instituciones deportivas más importantes de Argentina, con sede en la ciudad de Córdoba. Fundado el 12 de octubre de 1913, es uno de los clubes más tradicionales del interior del país y ha tenido destacadas participaciones en el fútbol argentino e internacional. Talleres ha sido históricamente uno de los clubes más representativos del fútbol cordobés, junto con Belgrano e Instituto. En sus primeros años, compitió en ligas locales hasta que comenzó a participar en torneos nacionales, destacándose como un equipo fuerte del interior del país. Uno de los hitos más importantes de su historia fue en el Torneo Nacional de 1977, cuando llegó a la final del campeonato argentino, enfrentando a Independiente. Aunque no logró el título, esa campaña lo posicionó como un equipo de gran nivel. En 1999, Talleres logró un hito histórico al convertirse en el primer equipo del interior de Argentina en ganar un título internacional, la Copa CONMEBOL, venciendo a Sportivo Alagoano de Brasil en la final. Talleres ha tenido varios ascensos y descensos entre Primera División y la B Nacional, pero en los últimos años ha logrado consolidarse en la élite del fútbol argentino. Ascenso a Primera en 2016: Tras varias temporadas en el ascenso, Talleres logró el campeonato de la B Nacional 2016 y volvió a la Primera División, donde se ha mantenido desde entonces. Clasificación a copas internacionales: Desde su regreso a Primera, ha logrado clasificaciones a la Copa Sudamericana y la Copa Libertadores, siendo protagonista en torneos continentales. Su clásico rival es Belgrano de Córdoba, con quien disputa el Clásico Cordobés, uno de los más importantes del país. También tiene una fuerte rivalidad con Instituto y Racing de Córdoba. Si bien el fútbol es su principal actividad, Talleres también ha desarrollado deportes como básquet, vóley y hockey, además de contar con una de las mejores divisiones inferiores del país. En la actualidad, Talleres es un club protagonista en la Primera División, con un crecimiento sostenido y el objetivo de seguir compitiendo en los torneos internacionales.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -1324,6 +1374,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1338,6 +1389,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1366,8 +1418,8 @@
               "long": null
             },
             "lugar": "San Fernando - Bs.As",
-            "fundación": null,
-            "historia": null,
+            "fundación": "03-08-1902",
+            "historia": "El Club Atlético Tigre, conocido simplemente como Tigre, es una institución deportiva argentina con sede en la localidad de Victoria, partido de San Fernando, en el norte del Gran Buenos Aires. Fundado el 3 de agosto de 1902, es uno de los clubes más tradicionales del conurbano bonaerense y ha tenido importantes actuaciones en el fútbol argentino, incluyendo un título de Copa de la Superliga. Desde sus comienzos, Tigre ha sido un club caracterizado por su fuerte arraigo en la zona norte del Gran Buenos Aires. Durante gran parte de su historia, el club compitió en las divisiones de ascenso, logrando hitos importantes que lo consolidaron como un club respetado. En 2007, Tigre logró el ascenso a la Primera División tras vencer a Nueva Chicago en una recordada promoción. Este ascenso marcó el inicio de una era exitosa para el club, logrando consolidarse rápidamente en la máxima categoría. En su primer torneo en la élite tras el ascenso, Tigre sorprendió al obtener el subcampeonato en el Torneo Apertura 2007, siendo superado solo por Lanús. Este logro reafirmó su posición como un equipo competitivo en la Primera División. En 2019, Tigre consiguió su primer título oficial de la Primera División al ganar la Copa de la Superliga, derrotando a Boca Juniors en la final. Este título fue histórico, ya que se obtuvo mientras el equipo militaba en la Primera B Nacional, siendo el primer equipo de una división inferior en lograr un campeonato de Primera. Gracias a su título en 2019, Tigre clasificó a la Copa Libertadores 2020, marcando su segunda participación en el máximo torneo continental (la primera fue en 2013, donde alcanzó la final de la Copa Sudamericana). Tigre juega sus partidos como local en el Estadio José Dellagiovanna, conocido como 'El Monumental de Victoria', con capacidad para 26.282 espectadores. Es un estadio emblemático para el club y la comunidad de Victoria. El clásico rival de Tigre es Platense, con quien disputa el Clásico del Norte. Además, tiene una histórica rivalidad con equipos como Chacarita Juniors y Nueva Chicago. Aunque el fútbol es la actividad principal, Tigre también ha desarrollado deportes como hockey, vóley y patín artístico, contribuyendo al desarrollo deportivo de la comunidad. En la actualidad, Tigre se mantiene como un club competitivo, alternando entre la Primera División y la Primera Nacional, pero con un legado importante en el fútbol argentino y un fuerte apoyo de su hinchada.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -1376,6 +1428,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1390,6 +1443,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1418,8 +1472,8 @@
               "long": null
             },
             "lugar": "Santa Fé - Santa Fé",
-            "fundación": null,
-            "historia": null,
+            "fundación": "15-04-1907",
+            "historia": "El Club Atlético Unión, conocido popularmente como Unión de Santa Fe, es uno de los clubes más importantes del fútbol argentino, con sede en la ciudad de Santa Fe. Fundado el 15 de abril de 1907, es un equipo con una rica historia en la Primera División y una gran rivalidad con Colón, su clásico rival. Unión ha tenido una trayectoria marcada por ascensos y descensos, pero siempre ha sido reconocido como un club fuerte en el fútbol argentino, con una hinchada fiel y apasionada. Luego de años en los torneos de ascenso, Unión logró su primer ascenso a la Primera División en 1966, donde se mantuvo durante varios años y comenzó a consolidarse como un equipo competitivo. Uno de los hitos más importantes en la historia de Unión fue en el Torneo Nacional de 1979, cuando llegó a la final del campeonato argentino, enfrentando a River Plate. A pesar de no haber conseguido el título, ese equipo quedó en la memoria de los hinchas. Tras varios ascensos y descensos, Unión logró consolidarse nuevamente en Primera División en 2014, tras una gran campaña en la B Nacional. Desde entonces, ha sido protagonista en el fútbol argentino, logrando mantenerse en la máxima categoría y clasificando a torneos internacionales. En los últimos años, Unión ha logrado clasificar a la Copa Sudamericana en varias oportunidades, destacándose su participación en 2019 y 2022, donde dejó una gran imagen a nivel internacional. Unión tiene una histórica rivalidad con Colón de Santa Fe, con quien disputa el Clásico Santafesino, uno de los más apasionantes del fútbol argentino. La rivalidad entre ambos clubes es intensa y sus enfrentamientos generan una gran expectativa en la ciudad. Además del fútbol, Unión tiene actividades en básquet, vóley, natación y otras disciplinas, demostrando su compromiso con el deporte en la región. Unión de Santa Fe sigue siendo un club protagonista del fútbol argentino, con una hinchada apasionada y el objetivo de seguir creciendo tanto en el ámbito local como internacional. ",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -1428,6 +1482,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1442,6 +1497,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1471,7 +1527,7 @@
             },
             "lugar": "Vélez - CABA",
             "fundación": null,
-            "historia": null,
+            "historia": "El Club Atlético Vélez Sarsfield, conocido simplemente como Vélez, es uno de los clubes más importantes del fútbol argentino. Fundado el 1 de enero de 1910 en el barrio de Liniers, en la Ciudad de Buenos Aires, se ha convertido en un club con una gran historia, reconocido por su fútbol formativo, sus títulos nacionales e internacionales, y su identidad de juego. Vélez comenzó su participación en torneos de la Asociación Argentina de Football y logró su ascenso a Primera División en 1919. Sin embargo, en 1940 descendió a la Segunda División, pero dos años después, en 1943, logró su regreso a la máxima categoría con una gran campaña. El primer título de Vélez llegó en el Campeonato Nacional de 1968, cuando venció a Racing Club en la final. Luego, en los años ‘90, bajo la dirección de Carlos Bianchi, el club vivió su época dorada con títulos nacionales e internacionales. En 1994, Vélez alcanzó la gloria máxima al ganar la Copa Libertadores tras vencer al poderoso São Paulo en la final. Ese mismo año, se consagró campeón de la Copa Intercontinental, derrotando al AC Milan en Japón por 2-0, con goles de Roberto Trotta y Omar Asad. Después de su éxito internacional, Vélez continuó siendo protagonista del fútbol argentino, ganando múltiples torneos locales, incluyendo el Clausura 1995, 1996, 1998, 2005, 2009, 2011 y 2012. En los últimos años, Vélez ha seguido consolidándose en la Primera División y ha participado en torneos internacionales, como la Copa Libertadores y la Copa Sudamericana. En 2022, llegó hasta las semifinales de la Copa Libertadores, reafirmando su competitividad. Vélez es reconocido por su excelente trabajo en divisiones inferiores, formando grandes jugadores que luego brillan en el fútbol mundial. Algunos futbolistas surgidos del club incluyen a Juan Román Riquelme, Mauro Zárate, Nicolás Otamendi, Thiago Almada y Lucas Pratto. Si bien Vélez no tiene un clásico definido, mantiene rivalidades con equipos como San Lorenzo, Ferro Carril Oeste, Huracán y River Plate, debido a históricos enfrentamientos. Además del fútbol, Vélez cuenta con diversas actividades deportivas como básquet, vóley, hockey y atletismo, consolidándose como un club integral.",
             "antiguosEntrenadores": [],
             "títulos": {
               "liga": null,
@@ -1480,6 +1536,7 @@
             },
             "plantel": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1494,6 +1551,7 @@
             ],
             "cuerpoTecnico": [
               {
+                "imgPerfil": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
