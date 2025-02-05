@@ -1,0 +1,41 @@
+LICENCIA DE USO DEL PROYECTO LPF API
+
+Esta Licencia (la "Licencia") rige el uso de la API denominada LPF API y del archivo asociado LPF.json (el "Archivo de Datos"). Al acceder, utilizar o modificar la API o el Archivo de Datos, el Usuario acepta los términos de esta Licencia. Si el Usuario no está de acuerdo con los términos, no debe utilizar la API ni el Archivo de Datos.
+
+1. CONCESIÓN DE LICENCIA
+El propietario de este proyecto (el "Licenciante") concede al Usuario una licencia limitada, no exclusiva, no transferible y revocable para utilizar la LPF API y el Archivo LPF.json de acuerdo con los términos establecidos en esta Licencia. La licencia incluye el derecho a:
+
+Utilizar la API para realizar consultas y obtener datos del archivo LPF.json.
+Integrar la API en sistemas o servicios propios, siempre que se respeten los términos de esta Licencia.
+
+2. RESTRICCIONES
+El Usuario no podrá:
+
+Modificar, redistribuir, vender, alquilar o sublicenciar la API o el Archivo LPF.json.
+Utilizar la API o el Archivo LPF.json para fines comerciales sin autorización expresa.
+Descompilar, desensamblar o intentar obtener el código fuente de la API, salvo en los casos permitidos por la ley aplicable.
+El Usuario no podrá usar la API o el Archivo LPF.json para crear servicios competitivos o cualquier producto que replique sustancialmente la funcionalidad de la API.
+
+3. USO DE DATOS
+El Archivo LPF.json puede contener datos que están sujetos a restricciones específicas sobre el uso, modificación, y redistribución. El Usuario está de acuerdo en no utilizar los datos de la API para fines ilícitos o inapropiados y debe cumplir con todas las leyes de privacidad y protección de datos aplicables.
+
+4. RESPONSABILIDAD DEL USUARIO
+El Usuario es responsable de:
+
+Asegurarse de que el uso de la API y el Archivo LPF.json sea conforme con las leyes locales, nacionales e internacionales aplicables.
+Implementar medidas adecuadas para garantizar la seguridad de los sistemas en los que se utilice la API.
+
+5. EXONERACIÓN DE RESPONSABILIDAD
+La API y el Archivo LPF.json se proporcionan "tal cual" y el Licenciante no ofrece garantías de ningún tipo, ya sean expresas o implícitas, sobre su funcionamiento, disponibilidad, precisión o seguridad.
+
+El Licenciante no será responsable de ningún daño directo, indirecto, incidental, especial, consecuente o punitivo relacionado con el uso o la imposibilidad de uso de la API o el Archivo LPF.json.
+
+6. TERMINACIÓN
+Esta Licencia permanecerá en vigor hasta que el Usuario o el Licenciante la termine. El Licenciante puede terminar esta Licencia en cualquier momento si el Usuario incumple los términos de la Licencia. En caso de terminación, el Usuario debe dejar de usar la API y eliminar cualquier copia de la misma y del Archivo LPF.json de sus sistemas.
+
+7. MODIFICACIONES A LA LICENCIA
+El Licenciante se reserva el derecho de modificar esta Licencia en cualquier momento, y dichas modificaciones serán efectivas a partir del momento en que se publiquen en el sitio web del Licenciante o se notifiquen al Usuario. Al continuar utilizando la API y el Archivo LPF.json después de dichas modificaciones, el Usuario acepta los nuevos términos.
+
+8. LEY APLICABLE Y JURISDICCIÓN
+Esta Licencia se regirá e interpretará de acuerdo con las leyes del país del Licenciante. En caso de disputa, las partes se someterán a la jurisdicción de los tribunales competentes del país del Licenciante.
+
