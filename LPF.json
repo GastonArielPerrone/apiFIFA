@@ -24,7 +24,120 @@
             },
             "plantel": [
               {
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Atamañuk_gabriel.JPG",
+                "apellido": null,
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
                 "imgPerfil": null,
+                "apellido": null,
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": null,
+                "apellido": null,
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": null,
+                "apellido": null,
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": null,
+                "apellido": null,
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": null,
+                "apellido": null,
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": null,
+                "apellido": null,
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": null,
+                "apellido": null,
+                "nombre": null,
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -40,6 +153,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -79,6 +193,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -94,6 +209,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -133,6 +249,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -148,6 +265,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -187,6 +305,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -202,6 +321,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -241,6 +361,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -256,6 +377,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -295,6 +417,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -310,6 +433,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -349,6 +473,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -364,6 +489,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -403,6 +529,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -418,6 +545,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -457,6 +585,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -472,6 +601,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -511,6 +641,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -526,6 +657,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -565,6 +697,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -580,6 +713,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -619,6 +753,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -634,6 +769,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -673,6 +809,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -688,6 +825,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -727,6 +865,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -742,6 +881,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -781,6 +921,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -796,6 +937,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -835,6 +977,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -850,6 +993,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -889,6 +1033,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -904,6 +1049,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -943,6 +1089,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -958,6 +1105,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -997,6 +1145,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1012,6 +1161,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1051,6 +1201,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1066,6 +1217,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1105,6 +1257,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1120,6 +1273,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1159,6 +1313,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1174,6 +1329,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1213,6 +1369,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1228,6 +1385,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1267,6 +1425,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1282,6 +1441,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1321,6 +1481,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1336,6 +1497,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1375,6 +1537,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1390,6 +1553,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1429,6 +1593,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1444,6 +1609,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1483,6 +1649,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1498,6 +1665,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
@@ -1537,6 +1705,7 @@
             "plantel": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "valor": null,
@@ -1552,6 +1721,7 @@
             "cuerpoTecnico": [
               {
                 "imgPerfil": null,
+                "apellido": null,
                 "nombre": null,
                 "nacionalidad": null,
                 "contrato": {
