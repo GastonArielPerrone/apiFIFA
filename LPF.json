@@ -25,8 +25,8 @@
             "plantel": [
               {
                 "imgPerfil": "clubes/Argentina/LPF/jugadores/Atamañuk_gabriel.JPG",
-                "apellido": null,
-                "nombre": null,
+                "apellido": "Atamañuk",
+                "nombre": "Gabriel",
                 "nacionalidad": null,
                 "valor": null,
                 "contrato": {
@@ -38,9 +38,9 @@
                 }
               },
               {
-                "imgPerfil": null,
-                "apellido": null,
-                "nombre": null,
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Britez_elias.JPG",
+                "apellido": "Britez",
+                "nombre": "Elias",
                 "nacionalidad": null,
                 "valor": null,
                 "contrato": {
@@ -52,9 +52,9 @@
                 }
               },
               {
-                "imgPerfil": null,
-                "apellido": null,
-                "nombre": null,
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Carranza_jorge.JPG",
+                "apellido": "Carranza",
+                "nombre": "Jorge",
                 "nacionalidad": null,
                 "valor": null,
                 "contrato": {
@@ -66,9 +66,9 @@
                 }
               },
               {
-                "imgPerfil": null,
-                "apellido": null,
-                "nombre": null,
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Colazo_agustin.JPG",
+                "apellido": "Colazo",
+                "nombre": "Agustín",
                 "nacionalidad": null,
                 "valor": null,
                 "contrato": {
@@ -80,9 +80,9 @@
                 }
               },
               {
-                "imgPerfil": null,
-                "apellido": null,
-                "nombre": null,
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Cos_brian.JPG",
+                "apellido": "Cos",
+                "nombre": "Brian",
                 "nacionalidad": null,
                 "valor": null,
                 "contrato": {
@@ -94,9 +94,9 @@
                 }
               },
               {
-                "imgPerfil": null,
-                "apellido": null,
-                "nombre": null,
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Espondola_marcelo.JPG",
+                "apellido": "Espondola",
+                "nombre": "Marcelo",
                 "nacionalidad": null,
                 "valor": null,
                 "contrato": {
@@ -108,9 +108,9 @@
                 }
               },
               {
-                "imgPerfil": null,
-                "apellido": null,
-                "nombre": null,
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Fernandez_augusto.JPG",
+                "apellido": "Fernández",
+                "nombre": "Augusto",
                 "nacionalidad": null,
                 "valor": null,
                 "contrato": {
@@ -122,9 +122,9 @@
                 }
               },
               {
-                "imgPerfil": null,
-                "apellido": null,
-                "nombre": null,
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Godoy_franco.JPG",
+                "apellido": "Godoy",
+                "nombre": "Franco",
                 "nacionalidad": null,
                 "valor": null,
                 "contrato": {
@@ -136,9 +136,191 @@
                 }
               },
               {
-                "imgPerfil": null,
-                "apellido": null,
-                "nombre": null,
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Gonzalez_ariel.JPG",
+                "apellido": "González",
+                "nombre": "Ariel",
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Gonzalez_rodrigo.JPG",
+                "apellido": "González",
+                "nombre": "Rodrigo",
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Guerrico_gonzalo.JPG",
+                "apellido": "Guerrico",
+                "nombre": "Gonzalo",
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Guzman_natanel.JPG",
+                "apellido": "Guzman",
+                "nombre": "Natanel",
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Indacoechea_joaquin.JPG",
+                "apellido": "Indacoechea",
+                "nombre": "Joaquín",
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Iñiguez_emmanuel.JPG",
+                "apellido": "Iñiguez",
+                "nombre": "Emmanuel",
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Juarez_david.JPG",
+                "apellido": "Juarez",
+                "nombre": "David",
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Morello_matias.JPG",
+                "apellido": "Morello",
+                "nombre": "Matías",
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Paredes_gabriel.JPG",
+                "apellido": "Paredes",
+                "nombre": "Gabriel",
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Piñeiro_gonzalo.JPG",
+                "apellido": "Piñeiro",
+                "nombre": "Gonzalo",
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Sills_juanIgnacio.JPG",
+                "apellido": "Sills",
+                "nombre": "Juan Ignacio",
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Sosa_alan.JPG",
+                "apellido": "Sosa",
+                "nombre": "Alan",
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Soto_gonzalo.JPG",
+                "apellido": "Soto",
+                "nombre": "Gonzalo",
+                "nacionalidad": null,
+                "valor": null,
+                "contrato": {
+                  "inicio": null,
+                  "fin": null,
+                  "sueldo": null,
+                  "tipo de contrato": null,
+                  "posición": null
+                }
+              },
+              {
+                "imgPerfil": "clubes/Argentina/LPF/jugadores/Torres_elias.JPG",
+                "apellido": "Torres",
+                "nombre": "Elías",
                 "nacionalidad": null,
                 "valor": null,
                 "contrato": {
